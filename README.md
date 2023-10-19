@@ -1,9 +1,11 @@
 # Conversational Bot
 
+[Click here to watch the demo](https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan)
+   
+![image](https://github.com/NivedhaBalakrishnan/NivedhaBalakrishnan/assets/50318272/9bfe9e7c-ffc9-4807-96ed-911193289e1b)
+
 <img width="869" alt="image" src="https://github.com/NivedhaBalakrishnan/Quaker-Jack/assets/50318272/1a147d7d-213b-49bc-87a6-cd719b7b8a90">
 
-
-YouTube: https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan
 
 
 ### Prompts used for Multi Prompt Router Chain
